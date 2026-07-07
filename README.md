@@ -4,7 +4,7 @@
 
 ### 📊 Traduzindo dados em estratégias, um problema de negócio por vez.
 
-Sou estudante de **Ciência de Dados para Negócios na UFPB** 🌵 e completamente apaixonada por resolver problemas de negócios utilizando a análise de dados. Minha missão principal? Ajudar organizações a abandonarem o "eu acho" e tomarem decisões inteligentes baseadas em evidências reais.
+Sou estudante de **Ciência de Dados para Negócios na UFPB** 🌵 e completamente apaixonada por resolver problemas de negócios utilizando a análise de dados. Minha missão principal é ajudar organizações a abandonarem o "eu acho" e tomarem decisões inteligentes baseadas em evidências reais.
 
 Acredito que códigos, algoritmos e gráficos só fazem sentido quando geram valor, resolvem uma dor de mercado e otimizam processos.
 
