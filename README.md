@@ -13,7 +13,7 @@ Acredito que códigos, algoritmos e gráficos só fazem sentido quando geram val
 ### 🛠️ Minha Caixa de Ferramentas
 
 * **Para fuçar e analisar os dados:** `Python (Pandas, NumPy, Scikit-Learn)` e `SQL`
-* **Para contar a história (Data Storytelling):** `Power BI`, `Excel` e `Dashboards Interativos`
+* **Para contar a história (Data Storytelling):** `Power BI`, `Metabase`, `Google Sheets`, `Excel` e `Dashboards Interativos construidos com IA`
 * **Para entender o "porquê":** `Métricas de Negócio (KPIs)`, `Estatística Aplicada` e `Resolução de Problemas`
 
 ---
